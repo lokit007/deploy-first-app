@@ -1,10 +1,13 @@
 {
   "name": "deploy-first-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "\"deploy app first heroku\""
+  },
+  "engines": {
+    "node": "6.10.2"
   },
   "author": "nhanviet",
   "license": "ISC",
